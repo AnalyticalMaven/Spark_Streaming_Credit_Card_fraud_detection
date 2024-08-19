@@ -1,6 +1,7 @@
 Project Summary for GitHub
 With the rising number of fraud cases, RetailCorp Inc.'s primary focus is to ensure a delightful and secure shopping experience for its customers. This project aims to build a real-time fraud detection solution using Kafka, Spark, and NoSQL databases. ce3f47ca-ee94-4bd3-946c-1c1c30e342ef-Capture9
-![Uploading image.png…]()
+![353713380-6b1bd972-028c-4d27-b0db-8a5ef8f29cbd](https://github.com/user-attachments/assets/bdc01d82-0a37-437c-9ffb-d1004a1c124e)
+
 
 Key Features:
 
